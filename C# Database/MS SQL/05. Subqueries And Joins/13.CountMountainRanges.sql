@@ -1,11 +1,15 @@
-SELECT TOP (5) C.CountryName, R.RiverName FROM Countries AS C
-FULL OUTER JOIN CountriesRivers AS CR ON C.CountryCode = CR.CountryCode
-FULL OUTER JOIN Rivers AS R ON CR.RiverId = R.Id
-WHERE C.ContinentCode = 'AF'
-ORDER BY C.CountryName
+SELECT C.CountryCode, COUNT(m.MountainRange)
+FROM Countries AS C
+INNER JOIN MountainsCountries MC
+ON C.CountryCode = MC.CountryCode
+INNER JOIN Mountains M
+ON MC.MountainId = M.Id
+WHERE C.CountryName in ('United States', 'Russia', 'Bulgaria')
+GROUP BY C.CountryCode
 
 /*
-•	CountryName
-•	RiverName
-Find the first 5 countries with or without rivers in Africa. Sort them by CountryName in ascending order.
+Write a query that selects:
+•	CountryCode
+•	MountainRanges
+Filter the count of the mountain ranges in the United States, Russia and Bulgaria
 */
