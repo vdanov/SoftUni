@@ -1,0 +1,4 @@
+C:\LOCAL DISC (D)\C#\GitHub repositories\SoftUni\SoftUni\OOP\Polymorphism\Shapes\obj\Debug\netcoreapp3.1\Shapes.csprojAssemblyReference.cache
+C:\LOCAL DISC (D)\C#\GitHub repositories\SoftUni\SoftUni\OOP\Polymorphism\Shapes\obj\Debug\netcoreapp3.1\Shapes.AssemblyInfoInputs.cache
+C:\LOCAL DISC (D)\C#\GitHub repositories\SoftUni\SoftUni\OOP\Polymorphism\Shapes\obj\Debug\netcoreapp3.1\Shapes.AssemblyInfo.cs
+C:\LOCAL DISC (D)\C#\GitHub repositories\SoftUni\SoftUni\OOP\Polymorphism\Shapes\obj\Debug\netcoreapp3.1\Shapes.csproj.CoreCompileInputs.cache

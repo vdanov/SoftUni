@@ -1,0 +1,13 @@
+C:\LOCAL DISC (D)\C#\GitHub repositories\SoftUni\SoftUni\OOP\InterfacesAndAbstractClasses\Birthday Celebrations\bin\Debug\netcoreapp3.1\Birthday Celebrations.exe
+C:\LOCAL DISC (D)\C#\GitHub repositories\SoftUni\SoftUni\OOP\InterfacesAndAbstractClasses\Birthday Celebrations\bin\Debug\netcoreapp3.1\Birthday Celebrations.deps.json
+C:\LOCAL DISC (D)\C#\GitHub repositories\SoftUni\SoftUni\OOP\InterfacesAndAbstractClasses\Birthday Celebrations\bin\Debug\netcoreapp3.1\Birthday Celebrations.runtimeconfig.json
+C:\LOCAL DISC (D)\C#\GitHub repositories\SoftUni\SoftUni\OOP\InterfacesAndAbstractClasses\Birthday Celebrations\bin\Debug\netcoreapp3.1\Birthday Celebrations.runtimeconfig.dev.json
+C:\LOCAL DISC (D)\C#\GitHub repositories\SoftUni\SoftUni\OOP\InterfacesAndAbstractClasses\Birthday Celebrations\bin\Debug\netcoreapp3.1\Birthday Celebrations.dll
+C:\LOCAL DISC (D)\C#\GitHub repositories\SoftUni\SoftUni\OOP\InterfacesAndAbstractClasses\Birthday Celebrations\bin\Debug\netcoreapp3.1\Birthday Celebrations.pdb
+C:\LOCAL DISC (D)\C#\GitHub repositories\SoftUni\SoftUni\OOP\InterfacesAndAbstractClasses\Birthday Celebrations\obj\Debug\netcoreapp3.1\Birthday Celebrations.csprojAssemblyReference.cache
+C:\LOCAL DISC (D)\C#\GitHub repositories\SoftUni\SoftUni\OOP\InterfacesAndAbstractClasses\Birthday Celebrations\obj\Debug\netcoreapp3.1\Birthday Celebrations.AssemblyInfoInputs.cache
+C:\LOCAL DISC (D)\C#\GitHub repositories\SoftUni\SoftUni\OOP\InterfacesAndAbstractClasses\Birthday Celebrations\obj\Debug\netcoreapp3.1\Birthday Celebrations.AssemblyInfo.cs
+C:\LOCAL DISC (D)\C#\GitHub repositories\SoftUni\SoftUni\OOP\InterfacesAndAbstractClasses\Birthday Celebrations\obj\Debug\netcoreapp3.1\Birthday Celebrations.csproj.CoreCompileInputs.cache
+C:\LOCAL DISC (D)\C#\GitHub repositories\SoftUni\SoftUni\OOP\InterfacesAndAbstractClasses\Birthday Celebrations\obj\Debug\netcoreapp3.1\Birthday Celebrations.dll
+C:\LOCAL DISC (D)\C#\GitHub repositories\SoftUni\SoftUni\OOP\InterfacesAndAbstractClasses\Birthday Celebrations\obj\Debug\netcoreapp3.1\Birthday Celebrations.pdb
+C:\LOCAL DISC (D)\C#\GitHub repositories\SoftUni\SoftUni\OOP\InterfacesAndAbstractClasses\Birthday Celebrations\obj\Debug\netcoreapp3.1\Birthday Celebrations.genruntimeconfig.cache

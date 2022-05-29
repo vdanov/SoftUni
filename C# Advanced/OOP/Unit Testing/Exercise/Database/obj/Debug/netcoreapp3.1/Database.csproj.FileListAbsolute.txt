@@ -1,0 +1,9 @@
+C:\LOCAL DISC (D)\C#\GitHub repositories\SoftUni\SoftUni\OOP\Unit Testing\Exercise\Database\bin\Debug\netcoreapp3.1\Database.deps.json
+C:\LOCAL DISC (D)\C#\GitHub repositories\SoftUni\SoftUni\OOP\Unit Testing\Exercise\Database\bin\Debug\netcoreapp3.1\Database.dll
+C:\LOCAL DISC (D)\C#\GitHub repositories\SoftUni\SoftUni\OOP\Unit Testing\Exercise\Database\bin\Debug\netcoreapp3.1\Database.pdb
+C:\LOCAL DISC (D)\C#\GitHub repositories\SoftUni\SoftUni\OOP\Unit Testing\Exercise\Database\obj\Debug\netcoreapp3.1\Database.csprojAssemblyReference.cache
+C:\LOCAL DISC (D)\C#\GitHub repositories\SoftUni\SoftUni\OOP\Unit Testing\Exercise\Database\obj\Debug\netcoreapp3.1\Database.AssemblyInfoInputs.cache
+C:\LOCAL DISC (D)\C#\GitHub repositories\SoftUni\SoftUni\OOP\Unit Testing\Exercise\Database\obj\Debug\netcoreapp3.1\Database.AssemblyInfo.cs
+C:\LOCAL DISC (D)\C#\GitHub repositories\SoftUni\SoftUni\OOP\Unit Testing\Exercise\Database\obj\Debug\netcoreapp3.1\Database.csproj.CoreCompileInputs.cache
+C:\LOCAL DISC (D)\C#\GitHub repositories\SoftUni\SoftUni\OOP\Unit Testing\Exercise\Database\obj\Debug\netcoreapp3.1\Database.dll
+C:\LOCAL DISC (D)\C#\GitHub repositories\SoftUni\SoftUni\OOP\Unit Testing\Exercise\Database\obj\Debug\netcoreapp3.1\Database.pdb
